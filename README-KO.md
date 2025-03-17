@@ -27,7 +27,7 @@
 ![플레이 화면](play.png)
 
 <!--Url for Buttons-->
-[readme-en-shield]: https://img.shields.io/badge/-readme%20in%20korean-2E2E2E?style=for-the-badge
+[readme-en-shield]: https://img.shields.io/badge/-readme%20in%20english-2E2E2E?style=for-the-badge
 [view-demo-shield]: https://img.shields.io/badge/-%F0%9F%98%8E%20view%20demo-F3F781?style=for-the-badge
 [view-demo-url]: https://youtu.be/aLrWUD4ksNk
 [readme-en-url]: README.md
