@@ -1,5 +1,7 @@
 # Jewelry_Hunter
-
+<!--Project Buttons-->
+ [![Readme in English][readme-en-shield]][readme-en-url] [![View Demo][view-demo-shield]][view-demo-url]
+ 
 2017년도 2학기 Java Project 강의 - 팀 프로젝트  
 주어진 시간 안에 몬스터를 피하여 장애물을 파괴하고 최대한 많은 보석을 얻는 게임  
 
@@ -24,3 +26,8 @@
 ![초기화면](entry.png)
 ![플레이 화면](play.png)
 
+<!--Url for Buttons-->
+[readme-en-shield]: https://img.shields.io/badge/-readme%20in%20korean-2E2E2E?style=for-the-badge
+[view-demo-shield]: https://img.shields.io/badge/-%F0%9F%98%8E%20view%20demo-F3F781?style=for-the-badge
+[view-demo-url]: https://youtu.be/aLrWUD4ksNk
+[readme-en-url]: README.md
